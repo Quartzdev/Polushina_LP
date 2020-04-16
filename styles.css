@@ -1,0 +1,51 @@
+body{
+  background-color: #FFF1ED;
+}
+
+#rectangle{
+  width: 100%;
+  height: 600px;
+}
+
+.page2{
+  position:absolute;
+  top: 98%;
+  background-color: #C773DD;
+}
+
+.page3{
+  position:absolute;
+  top: 196%;
+  background-color: #EEEADD;
+}
+.page4{
+  position:absolute;
+  top: 294%;
+  background-color: #E79494;
+}
+.page5{
+  position:absolute;
+  top: 392%;
+  background-color: #8BBDE2;
+}
+.page6{
+  position:absolute;
+  top: 490%;
+  background-color: #98D789;
+}
+.wave1{
+  position: absolute;
+  width: 100%;
+  top: 80%;
+}
+
+.wave2{
+  position: absolute;
+  width: 100%;
+  top: 185%;
+}
+.wave3{
+  position: absolute;
+  width: 100%;
+  top: 277%;
+}
